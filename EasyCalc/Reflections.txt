@@ -1,0 +1,10 @@
+﻿Possible Improvements:
+* Make it possible to use Sin(), Cos(), Tan(), Pi, E, and more in the calculator.
+* Fix the problem with filtering user input.
+* Overall improvment in code structure and readability.
+* Code optimization.
+
+This calculator is not perfect and there is lots of possible improvements that could be made.
+
+There exists another version of this calculator that could not be finished in time that hopefully 
+will implement all of the above mentioned improvements eventually. As well as having a much cooler design.  
